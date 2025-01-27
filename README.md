@@ -1,9 +1,11 @@
-Workshop 9: Live Video
+# Workshop 9: Live Video
 •	Make an experimental 'smart mirror' using live video capture.
 •	Include manipulations at the level of the pixel.
 •	Make a new repository for your p5.js project on your GitHub account, publish your sketch as a webpage, and include a README file in your repository with a URL to the webpage along with documentation of your work.
 
-##Process
+https://92386682.github.io/Workshop_Task_9/
+
+## Process
 Beginning by reviewing the workshop, and Daniel Shiffman’s covering of the same topic (https://www.youtube.com/watch?v=rNqaw8LT2ZU&t=717s) I began by mainly following the workshop until I reached a point of feedback, pixel loading and scaling, before taking on elements of Shiffman’s code until I reached the basic point of Shiffman’s pixelated video feedback. The code, whilst original, was strongly based on his at this point, and after was completely original.
 91![91](https://github.com/user-attachments/assets/b724e556-9af3-48ae-9330-88add1813416)
 
